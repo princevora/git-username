@@ -1,4 +1,4 @@
-import { exec } from "child_process";
+const { exec } = require("child_process");
 
 /**
  * Get git's user's username using local git commands
@@ -83,4 +83,4 @@ function isGitInstalled() {
     })
 }
 
-export default index;
+module.exports = index;
