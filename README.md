@@ -14,11 +14,11 @@ npm install
 
 # Usage
 ```js
-    import gitUsername from "./main.js";
+import gitUsername from "./main.js";
 
-    try {
-        const username = await gitUsername();
-    } catch (error) {
-        console.error(error);
-    }
+try {
+    const username = await gitUsername();
+} catch (error) {
+    console.error(error);
+}
 ```
