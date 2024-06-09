@@ -11,3 +11,14 @@ or
 ```
 npm install 
 ```
+
+# Usage
+```
+    import gitUsername from "./main.js";
+
+    try {
+        const username = await gitUsername();
+    } catch (error) {
+        console.error(error);
+    }
+```
