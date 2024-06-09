@@ -13,7 +13,7 @@ npm install
 ```
 
 # Usage
-```
+```js
     import gitUsername from "./main.js";
 
     try {
