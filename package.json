@@ -1,7 +1,7 @@
 {
   "name": "git-username",
   "version": "1.0.0",
-  "description": "Get git user email using node - js With git commands",
+  "description": "Get git user name using node - js With git commands",
   "main": "index.js",
   "scripts": {
     "start": "node main.js"
