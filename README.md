@@ -1,5 +1,5 @@
 # git-username
-Get git user email using node - js With git commands
+Get git user name using node - js With git commands
 
 # Commands
 ```
